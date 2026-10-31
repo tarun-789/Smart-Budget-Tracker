@@ -16,7 +16,6 @@
 ## 🌐 Quick Links & Demo
 
 - **GitHub Repository**: [https://github.com/tarun-789/Budget-Tracking-](https://github.com/tarun-789/Budget-Tracking-)
-- **Local Dev Server**: `http://localhost:5173/`
 - **Default Test Account**: `malipedditarun789@gmail.com` / `password123` *(or register any account / 1-click Quick Demo)*
 - **Multi-Tenant Architecture**: Complete client-side & database isolation across independent user accounts.
 
@@ -284,8 +283,6 @@ VITE_CLERK_PUBLISHABLE_KEY=pk_test_your_clerk_key
 ```bash
 npm run dev
 ```
-Open **`http://localhost:5173/`** in your browser.
-
 ---
 
 ## 📜 License & Credits
